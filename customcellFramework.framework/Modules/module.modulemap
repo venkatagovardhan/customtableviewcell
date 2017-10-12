@@ -1,0 +1,10 @@
+framework module customcellFramework {
+  umbrella header "customcellFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module customcellFramework.Swift {
+    header "customcellFramework-Swift.h"
+}

@@ -4,35 +4,25 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>mycell.xcscheme</key>
+		<key>CustomcellFrameworkIntegration.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>universalcustomcell.xcscheme</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>1</integer>
-		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>C02AEA1D1F570A8D00C6837D</key>
+		<key>C02AEA491F57139D00C6837D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>C02AEA261F570A8E00C6837D</key>
+		<key>C02AEA5D1F57139D00C6837D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>C02AEA3A1F570CB300C6837D</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>C02AEAAF1F5745DC00C6837D</key>
+		<key>C02AEA681F57139D00C6837D</key>
 		<dict>
 			<key>primary</key>
 			<true/>

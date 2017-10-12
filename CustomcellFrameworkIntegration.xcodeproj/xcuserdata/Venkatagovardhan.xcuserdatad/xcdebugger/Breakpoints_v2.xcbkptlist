@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomcellFrameworkIntegration/Datamodel.swift"
+            timestampString = "525820945.073764"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "didRecieveResponse(withData:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomcellFrameworkIntegration.Datamodel.didRecieveResponse (withData : Swift.Optional&lt;Foundation.Data&gt;) -&gt; ()"
+                  moduleName = "CustomcellFrameworkIntegration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacUser/Desktop/CustomcellFrameworkIntegration/CustomcellFrameworkIntegration/Datamodel.swift"
+                  timestampString = "525820976.965805"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "1264">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomcellFrameworkIntegration.Datamodel.didRecieveResponse (withData : Swift.Optional&lt;Foundation.Data&gt;) -&gt; ()"
+                  moduleName = "CustomcellFrameworkIntegration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacUser/Desktop/CustomcellFrameworkIntegration/CustomcellFrameworkIntegration/Datamodel.swift"
+                  timestampString = "525820976.970701"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "1631">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomcellFrameworkIntegration/Datamodel.swift"
+            timestampString = "525821070.45462"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "didRecieveResponse(withData:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomcellFrameworkIntegration.Datamodel.didRecieveResponse (withData : Swift.Optional&lt;Foundation.Data&gt;) -&gt; ()"
+                  moduleName = "CustomcellFrameworkIntegration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacUser/Desktop/CustomcellFrameworkIntegration/CustomcellFrameworkIntegration/Datamodel.swift"
+                  timestampString = "525821086.925154"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "847">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomcellFrameworkIntegration.Datamodel.didRecieveResponse (withData : Swift.Optional&lt;Foundation.Data&gt;) -&gt; ()"
+                  moduleName = "CustomcellFrameworkIntegration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacUser/Desktop/CustomcellFrameworkIntegration/CustomcellFrameworkIntegration/Datamodel.swift"
+                  timestampString = "525821086.929624"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1219">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
